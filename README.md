@@ -8,4 +8,4 @@
 ## **Additional Documentation**
 > none
 Versioning
-> <sub>V.1</sub>
+> (<sub>Version 1 (V.1)</sub>)
